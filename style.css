@@ -1,0 +1,284 @@
+body{
+    background-color:azure;
+}
+.navbar{
+    background-color:rgba(0,0,0,0.7)
+}
+.navbar li{
+    color:red;
+    font-size:50px;
+    margin-top:20px;
+    font-family:fantasy;
+    float:right;
+}
+.header{
+    font-family:fantasy;
+    font-size:150px;
+    color:red;
+    text-align: center;
+    font-weight:900;
+    margin-top:50px;
+}
+.jumbotron{
+    margin-top:-30px;
+}
+.jumbotron h1{
+    font-family:fantasy;
+    font-size:150px;
+    color:red;
+    text-align: center;
+    font-weight:900;
+}
+
+
+.jumbotron-content{
+    margin-top:300px;
+    float:right;
+    background-color:rgba(1,1,1,0.7);
+    color:pink;
+    padding-bottom:30px;
+    
+}
+.carousel{
+    height:400px;
+}
+.slider-img{ 
+    height:400px;
+    width:600px;
+    background-size:100% 100%;
+    margin:auto;
+    background-repeat: no-repeat;
+}
+#sauced-logo{
+    margin-top:60px;
+}
+
+#poppys-logo{
+    height:250px;
+    width:250px;
+    margin-left:50px;
+    
+}
+#curbside-logo{
+    margin-top:30px;
+    width:350px;
+    height:200px;
+    
+}
+#hotcorn-logo{
+    height:200px;
+    width:300px;
+    margin:40px 0px 0px 20px;
+}
+#cookiebar-logo{
+    height:200px;
+    width:300px;
+    margin:40px 0px 0px 20px;    
+}
+#soulfood-logo{
+    width:250;
+    height:200px;
+    margin:40px 0px 0px 40px;
+}
+.content{
+    background-color:rgba(1,1,1,0.3);
+    margin-top:260px;
+}
+.content h3{
+    margin-top:50px;
+    text-align:center;
+    font-family: 'Architects Daughter', cursive;
+    font-size:40px;
+    letter-spacing: 5px;
+}
+#email{
+    color:red;
+}
+.logo-row{
+    margin-top:50px;
+}
+.info{
+    height:800px;
+    background-image: url('vegetables-320131.jpg');
+    background-repeat: no-repeat;
+    
+}
+.footer{
+    height:100px;
+}
+.section{
+    margin-left:50px;
+    margin-top:-30px;
+    
+}
+.row1{
+    margin-top:50px;
+}
+.catering-content{
+    text-align: center;
+    font-family: serif;
+    font-size:35px;
+    margin-top:50px;
+}
+.row1 img{
+    height:375px;
+    width:475px;
+    margin:20px 0px 0px 0px;
+    border-radius:50%;   
+}
+.row1 h3{
+    height:500px;
+    margin:40px 0px 0px 0px;
+}
+ h3 button{
+    padding:10px;
+     border-radius:10px;
+     background-color:skyblue
+}
+.row1{
+    margin-bottom:-80px;
+}
+
+.row2 img{
+    height:375px;
+    width:475px;
+    border-radius: 50%;
+}
+.row3 img{
+    height:375px;
+    width:475px;
+    border-radius:50%;
+    margin:0px 0px 0px 0px;
+}
+.row4 h2{
+    margin:50px 0px 80px 0px;
+    text-align:center;
+    height:90px;
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 50px;
+}
+.row4 img{
+    height:50px;
+    width:175px;   
+}
+#bofa{
+    width:175px;
+    margin-left:0px;
+}
+.header h1{
+    text-align:center;
+    font-family: serif;
+    font-size:100px;
+}
+.header h3{
+    font-family: serif;
+    font-size: 35px;
+}
+.form{
+    width:500px;
+    margin:0px 0px 0px 20px;
+}
+.form-image{
+margin:100px 0px 0px 0px; 
+    
+}
+.form-image img{
+    height:200px;
+    width:300px;
+    padding:5px;
+    border-radius: 50%;
+}
+.contact-background{
+    background-image:url('eat-321671.jpg');
+    background-repeat: no-repeat;
+    height:2000px;
+}
+
+.gallery-row1{
+    margin:120px 0px 60px 10px;
+}
+.gallery-row1 img{
+   border-radius:50%;
+   padding:10px;
+   height:250px;
+   width:300px;
+}
+.gallery-background{
+background-image:url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHUAsAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAAEBQACAwYB/8QAJBAAAgICAgMBAAIDAAAAAAAAAAMBAgQRITESUWFBBRMiQqH/xAAZAQEBAQEBAQAAAAAAAAAAAAAAAQIDBAX/xAAbEQEAAwEBAQEAAAAAAAAAAAAAAQIREjEhA//aAAwDAQACEQMRAD8A4zAxtamYOn/jqVprRz2M3mND7+Pncwe98p1X8dbUVOgxb8Qc1g21ED3FvxADxDeg5VxKi/MDFN+Dnarr+djCLE2YRfg98jlj0dNpk82ZeZPLYw1r5HnkZ7JsuGtPI88jPyJsmJrXZPIy8oJN4LhrxlogDcyINW34F2SzUSdaQ43sEzW7ieTm/wCRit97ga5jd75EmZfs24ub/kseLeRzObjameDrsyexLkxW08gCYVZmYOkwY8YjYlwV6iBwi+gH+FfmB3j34g53BtvQ6VfVQG6GdDJDOBEhnMDLHZwMWJNKsLxfYFF+DSlzHLpFhPkTzMtk2TGum/mTyMPIk2GHTebfStrmFrFZsIqk2b+Z5LODHZmy+jXLM2RrBdls4N2X4FuXc1mOfoDKvzIoy7dh2RbmRblcwAryp3EibK3EyNnz/lIvyqRaJA8TMVqFoZuRb/YF4ttyB0eBbiBvRmoEmFbVYGFWANEs5jkZYzfohSzkZ4zAHEM4L1YCUvxBetgD6Mgt5AtLG0TwTGtXmxWblZKSXE1abnnmUkrM6A0szUdg7GmbGfQe1wNGM4kWZbe+Qpt+JFWWzsIEeznsDfbdSzWcmN7bqAryp1aQSbRPEhOZ3Ivm+pAErfcjDDnkUKtzA0w55gB/i21WAuGC1N9VNatAaJbzAyxmiJLI3Awxma/QOhU3g2rcWIbxAVW4B9Lm9Li9bDelwoubFJkzi5JsBbyMmX1B5a8RAK5gHjGGE3M2MMpYBd7P8ZFGUzsKyW9inJb2EYsvyU8zBjNyUhgGOZ+ips6sM8qdxIofOpAEVPQyxbdChVuhhjs1oBxRnBeGi+HFqtAbKb0MMdwiUyOOQ1Dgro8d3XIXVwhS/rkNq/6A3o4Io4S0d9CKP+gOKtPZbwLqO+ntncdgEscBtd9MWv8AoG130Ai7jOWgVm/Stm6jsC+Q7vkVPZ2aZDhc5oHrLlIuD3YU/sCN323UVZNgxjN1FuRYAFdg1NwBcBio+iFmPor+0vVn0xpSk/7SFKWv9tMhGimfQ1LPpmhSuNVmRnjY9Z1qgVEMkOXNvpojF63WIDl41fgAlPL6EU8/QVTHr6NaoiPwAetrQeXtb9C5XHopZceiBcy8gt7yNGJj0DMRHooW2YZsdER2HXRG+IBnInXFYkBW90ewFrY9jB9IjtYA2F/tJAGuyPyTKWx7Ls/q+g95p+T/AMCNJZuJ5An35NZtER2CttAUKrYaqsyBq7DFWM1asMQnfcjLHx6/swLlWngOTMmmTbHouutB6rxriBQn8D0zPsBqm0zrkOTUVonQepn0BjSppEQBVb9Lw36AXNYKTWDD+36Vs36Qa2rBhekeoK2ZPsylk+yijad8AbYmAu1t/oM2NgAtt7rAE6q7d1iA91AF1PoC56KTvQvcjQzfExvkXumQgFlNArYDGyCNkSsehlyErtJCGKt3FptPAcpkkIbcxymTGgxTrQQgUWt9tBFMi5CAbVff2a1ff2QgGkOv7PZbb2QhBWzLezOWSQhRSWSUteSEAGZeQRtp0QgQA6ewB8kIAE0DaQglY9f/2Q==');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.gallery-row2 h3{
+    margin-top:20px;
+    font-family: serif;
+    font-size: 60px;
+    text-align: center;
+}
+.gallery-row3{
+    margin:20px 0px 0px 0px;
+}
+.gallery-row3 img{
+   border-radius:50%;
+   padding:px;
+   height:250px;
+   width:300px;
+}
+
+.gallery-row4 h3{
+    margin-top:20px;
+    font-family: serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+.gallery-row5 img{
+   border-radius:50%;
+   padding:10px;
+   height:250px;
+   width:300px;
+}
+
+.gallery-row6 h3{
+    font-family: serif;
+    font-size: 60px;
+    text-align: center;
+}
+.gallery-footer{
+    margin-top:100px;
+}
+.gallery-footer h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: serif;
+    color:green;
+}
+.contact-article{
+    background-color:rgba(1,1,1,0.5);
+    color:white;
+    margin-top:615px;
+}
+.contact-article h3{
+    text-align: center;
+    font-family: serif;
+    font-size: 40px;
+}
+.contact-article h1{
+    text-align: center;
+    font-family: cursive;
+    font-size:80px;
+    text-decoration: underline;
+    margin-bottom:-20px;
+}
+.contact-header h1{
+    text-align: center;
+    font-family:fantasy;
+    font-size:125px;
+    color:red;
+    margin-top:40px;
+}
+.form-control{
+    max-width:400px;
+}
+
+
